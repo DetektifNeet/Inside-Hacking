@@ -54,8 +54,16 @@
 [Mega](https://mega.nz/folder/6yIGUS6S#emCYnM2TH2o_rUPf4FSVdQ "Mega")
 - The Beginner Malware Analysis Course 
 [Mega](https://mega.nz/file/75ZVxCgb#u4CDG_dAHhHasx4P25pczoi-AvLl_U5Jp5y2I6HcM48 "Mega")
-
-
+-  How Hackers Creat undetectable Malware & Virus
+[Mega](https://mega.nz/folder/5V4R3QyC#3NaPApDjgZzBbaum-EeLSg "Mega")
+- ZDResearch Reverse Engineering
+[Mega](https://mega.nz/folder/rMRBTAib#xc7IoGYC3zc7Wc41qShPRA "Mega")
+- Reverse Engineering and Exploit Development
+[Mega](https://mega.nz/folder/F4wn1aLZ#d0wRBRUXKauTuGf3fs1uAA "Mega")
+- Mobile Security Reverse  Engineer Android Apps From Scratch
+[Mediafire](https://www.mediafire.com/file/hetfem9w3t4frpo/Mobile_Security_-_Reverse_Engineer_Android_Apps_From_Scratch.rar/file "Mediafire")
+- Random
+[Gdrive](https://drive.google.com/drive/u/0/folders/1PDYZo2zMIJjERU3HqW-noSQACSqHuYPR "Gdrive")
 
 **Programming**
 
