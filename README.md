@@ -41,12 +41,27 @@
 [Udemy](https://www.udemy.com/course/linux-privilege-escalation-for-beginners/ "Udemy")
 - 1.90 TB MANY COURSES
 [Mega](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA "Mega")
+- All in one Carding Package
+[Gdrive](https://drive.google.com/drive/u/0/folders/1-QCYnIniKXOhrIH7fs3joXD1tARXQQTG "Gdrive")
+- The Complete Cybersecurity with Cloud Computing
+[Mega](https://mega.nz/folder/SQVDgaSa#uvv61jnL0bhTmOiM-8OtrQ "Mega")
+- Mobile Application Hacking and Penetration Testing (Android)
+[Gdrive](https://drive.google.com/file/d/1UutyIoiEf7HhF-6uivDbVhTFJ4wDbOt1/view "Gdrive")
+[Udemy](https://www.udemy.com/course/mobile-application-hacking-and-penetration-testing-android-security/ "Udemy")
+-  Hakin9 Courses 2019
+[Mega](https://mega.nz/folder/nvpzXYjR#xEsl9Gl6krSxNhTCU8Owzg "Mega")
+- Offensive Soft Exploitation
+[Mega](https://mega.nz/folder/6yIGUS6S#emCYnM2TH2o_rUPf4FSVdQ "Mega")
+- The Beginner Malware Analysis Course 
+[Mega](https://mega.nz/file/75ZVxCgb#u4CDG_dAHhHasx4P25pczoi-AvLl_U5Jp5y2I6HcM48 "Mega")
+
 
 
 **Programming**
 
 ------------
-
+- Adobe Softwares 2021 Pre-Activated Multi Language
+[Mega](https://mega.nz/folder/mDxkSCrB#yEEqsaMUZu_AQ1SSC6cXNA "Mega")
 - Building Web apps on Bubble
 [Gdrive](https://drive.google.com/folderview?id=1a3fyJ-0xIsbjXs6PEWO6JL-DU4Sd0Cb6 "Gdrive")
 - Advanced Python Course
@@ -88,3 +103,20 @@
 [Gdrive](https://drive.google.com/drive/u/0/folders/1cg-msrtVjaxqoMg_LkjJunh999o9lv9U "Gdrive")
 - Natural Language Processing Nanodegree v1.0.0
 [Gdrive](https://drive.google.com/drive/u/0/folders/1cg-msrtVjaxqoMg_LkjJunh999o9lv9U "Gdrive")
+
+**Tools**
+
+------------
+
+- OpenBullet COLLECTION
+[Mega](https://mega.nz/file/j5kH2KJI#ujSOCpKFuq5vXUGOBcuXY1aBRV5vU6IkfT5WD9rPqlI "Mega")
+- BlackBullet COLLECTION 
+[Mega](https://mega.nz/file/rtk2hZ4b#LxFPsQWxerWsJBehfC04mm6xqqa0hy-MmR7Q1fWjRPI "Mega")
+- Config Blackbullet 1000+
+[Mega](https://mega.nz/folder/fw81jChT#2u80I8CK9Xj6F8GavZ9Z4A "Mega")
+- Config Openbullet 2000+
+[Mega](https://mega.nz/folder/zttHhQwC#qiRDfwsHGbGZrtRzKQMu3g "Mega")
+- Super config for both 
+[Mega](https://mega.nz/folder/DhsRwIjK#97XIBueuJS0_IK2Vr8eB_A "Mega")
+- Proxy Tools Grabber
+[Mega](https://mega.nz/file/689AUb6Q#jRouAqDD9oXd0H7UT6IIgAOURd2It4zFi66juL2JbhE "Mega")
