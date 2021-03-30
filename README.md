@@ -2,7 +2,12 @@
 
 ------------
 
-
+- Cybersecurity Collection
+[Gdrive](https://drive.google.com/drive/folders/1q2sOBNU4lPBkwtF1Msl6uCACBV5TUGWD "Gdrive")
+- Computer Vision Nanodegree
+[Gdrive](https://drive.google.com/drive/u/0/folders/1770Z6Rw8tSq2iXjS2X_MoJwUd6EuZxCq "Gdrive")
+- Pentester Academy - x86 Assembly Language and Shellcoding on Linux
+[Gdrive](https://drive.google.com/folderview?id=1KKKlL5TzdXDIxrSOz0Gmz3RWGTh_0Xli "Gdrive")
 - Kali linux - Complete Training Program from Scratch course
 [Gdrive](https://drive.google.com/drive/u/0/folders/1714TBeP8chDWSIPCcALAuEM5ZNQsLYsn "Gdrive")
 - Wifi Hacking
@@ -23,14 +28,29 @@
 [Gdrive](https://drive.google.com/drive/folders/1ytZk4T1EnPPwmtt9FJX0BjNPnafzPWwr "Gdrive")
 - Python Ethical Hacking  Build tools for ethical hacking
 [Gdrive](https://drive.google.com/drive/folders/1aBX4Y0cqQSZJZoPiweGEkvyJ05r3SdJY "Gdrive")
-
+- Bug Bounty PoC full Course
+[Gdrive]( https://drive.google.com/drive/mobile/folders/14zlqgin6rUfr6jQRBCLbbP8P8Vdypz7x "Gdrive")
+- Malware Analisys
+[http://index-of.co.uk/Assembly/](http://index-of.co.uk/Assembly/)
+- The Ultimate Dark Web, Anonymity, Privacy & Security Course by Zaid Sabih
+[Gdrive](https://drive.google.com/uc?export=download&id=14UXLURCDdrV-3AiN08rkN7rfN1O2gQ40 "Gdrive")
+- EUROPEAN BLACKHAT VIDEOS & TEACHINGS FROM THE BLACKHAT FORUMS
+[Gdrive](https://drive.google.com/drive/u/0/folders/1z41KcLGRWqyEux_kNBkl2yPFJpMYMzOs "Gdrive")
+- Linux Privilege Escalation for Beginners
+[Mega](https://mega.nz/folder/tLhlmKrD#5wrymtsKHTt1gBDLF8a1Sg "Mega")
+[Udemy](https://www.udemy.com/course/linux-privilege-escalation-for-beginners/ "Udemy")
+- 1.90 TB MANY COURSES
+[Mega](https://mega.nz/folder/dVxiXITI#lM16YzFg6xlnDOGYBOWUhA "Mega")
 
 
 **Programming**
 
 ------------
 
-
+- Building Web apps on Bubble
+[Gdrive](https://drive.google.com/folderview?id=1a3fyJ-0xIsbjXs6PEWO6JL-DU4Sd0Cb6 "Gdrive")
+- Advanced Python Course
+[Gdrive](https://drive.google.com/drive/u/0/folders/198ASFUIeABhedw_Mq6y4wz_R-JgGAVS9 "Gdrive")
 - Complete Machine Learning and Data Science Zero to Mastery
 [Gdrive](https://drive.google.com/drive/u/0/folders/1bFcmRP5EAtksPtjiuV9qpHyNK6sci8WM "Gdrive")
 - Deep Learning With TensorFlow Videos
